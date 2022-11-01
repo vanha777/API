@@ -2,16 +2,16 @@
       "robots": [
 
           {
-            "id": :1,
+            "id": 1,
             "date":"4454",
             "topic":"fafawfafawf",
             "body":"ddasdasdadasdasasfasfafasfa"
           },
            {
-            "id": :2,
-            "date":"454545454",
-            "topic":"fafawfjkjkjhafawf",
-            "body":"dhgjghjghjghjghjghjdasdasdadasdasasfasfafasfa"
+            "id" : 2,
+            "date" : "454545454",
+            "topic" : "fafawfjkjkjhafawf",
+            "body" : "dhgjghjghjghjghjghjdasdasdadasdasasfasfafasfa"
           }
       ],
       "profile": {
